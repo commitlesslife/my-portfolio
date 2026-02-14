@@ -19,7 +19,7 @@ export default function Home() {
             {PROFILE.name}.
           </h1>
           <h2 className="text-4xl md:text-6xl font-bold text-slate-400 mb-8">
-            I build secure systems.
+            I like to BUILD.
           </h2>
           <p className="text-lg text-slate-400 max-w-xl leading-relaxed mb-10">
             {PROFILE.bio}
