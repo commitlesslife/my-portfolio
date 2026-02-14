@@ -75,7 +75,7 @@ export const SKILLS = [
   { category: "Core", items: ["C", "C++", "Data Structures", "Algorithms"] },
   { category: "Web", items: ["HTML/CSS", "JavaScript", "React", "Next.js"] },
   { category: "Tools", items: ["Git", "VS Code", "Linux", "Wireshark"] },
-  { category: "Academic", items: ["Matrices & Calculus", "Engineering Chemistry", "Digital Logic"] },
+  { category: "Academic", items: ["System Design", "Mathematics", "Digital Logic"] },
 ];
 
 export const PROJECTSS = [
