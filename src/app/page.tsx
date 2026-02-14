@@ -72,7 +72,7 @@ export default function Home() {
             <ProjectCard 
               key={project.id}
               title={project.title}
-              description={project.description}
+              description={project.tagline}
               tech={project.tech}
               github={project.github}
             />
